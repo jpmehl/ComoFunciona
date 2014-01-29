@@ -1,4 +1,4 @@
 ComoFunciona
 ============
 
-arquivo de teste
+Esse arquivo pode ser editado, como num wiki.
